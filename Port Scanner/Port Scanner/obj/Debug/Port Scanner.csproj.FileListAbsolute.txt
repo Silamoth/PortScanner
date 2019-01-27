@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe.config
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\bin\Debug\Port Scanner.pdb
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port_Scanner.MainForm.resources
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port_Scanner.Properties.Resources.resources
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port Scanner.exe
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port Scanner.pdb
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port_Scanner.PortBox.resources
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port_Scanner.AddressBox.resources
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe.manifest
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\bin\Debug\Port Scanner.application
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port Scanner.exe.manifest
+C:\Users\Michael\Documents\Port Scanner\Port Scanner\obj\Debug\Port Scanner.application
